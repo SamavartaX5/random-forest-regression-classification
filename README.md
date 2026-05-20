@@ -106,4 +106,4 @@ regression/Car_Price-Prediction-regression.ipynb
 
 ## Author
 
-* Your Name
+* Samavarta Satapathy
